@@ -1,4 +1,4 @@
-# PoliticalPanic
+# Political Panic: How a Broken Political Fundraising System Feeds on Polarization and Hysteria
 Samantha Igo and Hannah P. Cowley
 
 > An analysis of political candidate emails to check for the use of inflammatory or conspiratorial rhetoric.
