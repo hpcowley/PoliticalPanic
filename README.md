@@ -1,4 +1,5 @@
 # PoliticalPanic
+Samantha Igo and Hannah P. Cowley
 
 > An analysis of political candidate emails to check for the use of inflammatory or conspiratorial rhetoric.
 
